@@ -6,7 +6,8 @@
 
 ## 1. Navegación Pública y Catálogo
 1. **Página de Inicio (`PaginaInicio.jsx`):** Al ingresar a la plataforma, el usuario visualiza el banner principal (`fondo-automaster.webp`), accesos directos a categorías y vehículos destacados.
-   ![Página de Inicio](./capturas/01-inicio.png)
+   ![Página de Inicio](" <img width="947" height="473" alt="Captura de pantalla 2026-11-17 120750" src="https://github.com/user-attachments/assets/c117e37b-dc78-4a88-9993-48eb497b5b57" />
+")
 2. **Catálogo y Filtros (`PaginaCatalogo.jsx` / `PaginaCategorias.jsx`):** Desde la barra superior (`Encabezado.jsx`), el usuario puede navegar por todo el inventario o filtrar por categoría (`PaginaDetalleCategoria.jsx`) y revisar promociones en **Ofertas** (`PaginaOfertas.jsx`).
    ![Catálogo de Vehículos](./capturas/02-catalogo.png)
 3. **Detalle del Vehículo (`PaginaDetalleVehiculo.jsx`):** Al hacer clic en cualquier tarjeta (`TarjetaVehiculo.jsx`), se despliega la ficha completa del vehículo con su precio, categoría y botón para añadir al carrito.
